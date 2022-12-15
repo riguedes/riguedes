@@ -1,6 +1,4 @@
-## Sejam bem vindos ao meu perfil!!! Cursando Sistemas De Informação na Universidade Federal De Ouro Preto, realizei estágio na Caixa Econômica Federal e atualmente trabalho na organização.
-<div align="center">
-  <a href="https://github.com/riguedes">
+## Sejam bem vindos ao meu perfil!!! Cursando Sistemas De Informação na Universidade Federal De Ouro Preto, tenho interesse em UX Design e gosto bastante de Ciência da Informação
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riguedes&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riguedes&layout=compact&langs_count=7&theme=darcula"/>
 </div>
